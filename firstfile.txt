@@ -346,4 +346,4 @@ git push origin --delete <Branch_Name>
 23. to delete the brnach in repository then 
 
 git push origin --delete <branch name>
-24. 
+24.During the First push to remote reporsitory you need to authenticate using the PAT 
